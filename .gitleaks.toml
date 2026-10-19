@@ -1,0 +1,7 @@
+title = "SIL Security Lab Rules"
+
+[[rules]]
+id = "sil-test-token"
+description = "Detect synthetic SIL lab test tokens"
+regex = '''github_pat_[A-Z]{10,}'''
+keywords = ["github_pat_"]

@@ -1,0 +1,7 @@
+2026-10-19T08:15:10Z INFO auth user=analyst result=success src=10.0.0.15
+2026-10-19T08:16:22Z WARN auth user=admin result=failed src=203.0.113.45
+2026-10-19T08:16:28Z WARN auth user=admin result=failed src=203.0.113.45
+2026-10-19T08:16:34Z WARN auth user=admin result=failed src=203.0.113.45
+2026-10-19T08:16:40Z ALERT auth user=admin result=failed src=203.0.113.45
+2026-10-19T08:18:12Z ALERT firewall action=blocked src=198.51.100.24 dst=10.0.0.20
+2026-10-19T08:19:44Z WARN endpoint event=suspicious_script host=WS-014

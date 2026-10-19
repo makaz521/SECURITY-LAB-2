@@ -1,0 +1,6 @@
+SIL SECURITY MONITORING LAB
+Synthetic log analysis only
+
+Existing alert: 2026-10-19T08:16:40Z ALERT auth user=admin result=failed src=203.0.113.45
+Existing alert: 2026-10-19T08:18:12Z ALERT firewall action=blocked src=198.51.100.24 dst=10.0.0.20
+BRUTE-FORCE INDICATOR: 4 failed logins from 203.0.113.45
